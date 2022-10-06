@@ -1,4 +1,6 @@
 {
   "deno.enable": true,
-  "deno.unstable": true
+  "deno.unstable": true,
+  "deno.lint": true,
+  "deno.importMap": "./pokerdle/import_map.json"
 }
